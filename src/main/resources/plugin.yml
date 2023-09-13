@@ -1,0 +1,9 @@
+name: MagicStick
+version: '${project.version}'
+main: jp.tproject.magicstick.MagicStick
+api-version: '1.20'
+authors: [ tdmn_03 ]
+commands:
+  stick:
+    description: this
+    permission: op
